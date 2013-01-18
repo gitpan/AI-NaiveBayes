@@ -1,0 +1,17 @@
+Changes
+INSTALL
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+README
+README.pod
+dist.ini
+lib/AI/NaiveBayes.pm
+lib/AI/NaiveBayes/Classification.pm
+lib/AI/NaiveBayes/Learner.pm
+t/01-learner.t
+t/02-predict.t
+t/release-pod-coverage.t
+t/release-pod-syntax.t
