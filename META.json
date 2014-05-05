@@ -2,11 +2,11 @@
    "abstract" : "A Bayesian classifier",
    "author" : [
       "Zbigniew Lukasiak <zlukasiak@opera.com>",
-      "Tadeusz So\u00c5\u009bnierz <tsosnierz@opera.com>",
+      "Tadeusz Sośnierz <tsosnierz@opera.com>",
       "Ken Williams <ken@mathforum.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300028, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Dist::Zilla version 5.015, CPAN::Meta::Converter version 2.133380",
    "license" : [
       "perl_5"
    ],
@@ -58,6 +58,6 @@
          "web" : "http://github.com/operasoftware/AI-NaiveBayes"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
 

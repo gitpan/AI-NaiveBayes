@@ -1,8 +1,5 @@
 package AI::NaiveBayes::Classification;
-{
-  $AI::NaiveBayes::Classification::VERSION = '0.01';
-}
-
+$AI::NaiveBayes::Classification::VERSION = '0.02';
 use strict;
 use warnings;
 use 5.010;
@@ -46,13 +43,15 @@ __PACKAGE__->meta->make_immutable;
 
 =pod
 
+=encoding UTF-8
+
 =head1 NAME
 
 AI::NaiveBayes::Classification - The result of a bayesian classification
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

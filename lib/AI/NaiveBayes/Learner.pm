@@ -1,7 +1,5 @@
 package AI::NaiveBayes::Learner;
-{
-  $AI::NaiveBayes::Learner::VERSION = '0.01';
-}
+$AI::NaiveBayes::Learner::VERSION = '0.02';
 use strict;
 use warnings;
 use 5.010;
@@ -100,13 +98,15 @@ __PACKAGE__->meta->make_immutable;
 
 =pod
 
+=encoding UTF-8
+
 =head1 NAME
 
 AI::NaiveBayes::Learner - Build AI::NaiveBayes classifier from a set of training examples.
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
@@ -166,7 +166,11 @@ The parameter should be of the form of
 
 =head1 UTILITY SUBS
 
+=over 4
+
 =item C<add_hash>
+
+=back
 
 =head1 BASED ON
 
